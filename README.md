@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveed Shehzad 
-- 👀 I’m interested in Programming Langueges, DevOps Enginering..
+- 👀 I’m interested in Web developement,Programming Langueges,DevOps Enginering..
 - 🌱 I’m currently learning Html,CSS,JavaScript and IT Solution Architecture.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
